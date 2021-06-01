@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "color-opacity"
+  "defaultProject": "color-opacity",
+  "cli": {
+    "analytics": "601830a5-d55b-4b99-a95e-b72ec3db04aa"
+  }
 }
